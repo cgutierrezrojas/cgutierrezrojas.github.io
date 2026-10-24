@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cgutierrezrojas.juegomental",
+        "sha256_cert_fingerprints": ["B9:87:B5:0B:83:54:A5:9D:30:2B:32:45:06:79:71:C4:D0:4E:AE:86:95:66:AD:A4:64:D8:52:E9:CD:19:34:A6"]
+      }
+    }]
